@@ -1,8 +1,8 @@
 # UNOMP_MULTIAUX
 Unified node open mining portal with support for more than one aux-pow coin
 
-
-Instalation:
+1. Instalation
+```bash
 
 #Pre-requirements
 sudo apt-get update
@@ -14,12 +14,13 @@ git clone https://github.com/Sandokaaan/UNOMP_MULTIAUX.git
 cd UNOMP_MULTIAUX
 ./install.sh
 
+2. Configuration
+```bash
 
-
-Configuration:
 Set-up required passwords and other parametrs in config.json and pool_config/litecoin.json files
 
+3. Run pool
+```bash
 
-Run pool:
 cd UNOMP_MULTIAUX
 ./start.sh
