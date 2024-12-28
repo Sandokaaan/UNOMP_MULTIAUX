@@ -14,8 +14,7 @@ cd UNOMP_MULTIAUX
 ./install.sh
 ```
 
-2. Configuration
-Set-up required passwords and other parametrs in config.json and pool_config/litecoin.json files!
+2. Configuration: Set-up required passwords and other parametrs in config.json and pool_config/litecoin.json files!
 
 3. Run pool
 ```bash
