@@ -1,0 +1,5 @@
+{
+    "name": "Marscoin",
+    "symbol": "MARS",
+    "algorithm": "scrypt"
+}

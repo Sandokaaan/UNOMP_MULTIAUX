@@ -1,0 +1,6 @@
+{
+    "name": "Startcoin3",
+    "symbol": "START3",
+    "algorithm": "x11",
+    "mposDiffMultiplier": 256
+}

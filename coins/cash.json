@@ -1,0 +1,5 @@
+{
+    "name": "CashCoin",
+    "symbol": "CASH",
+    "algorithm": "scrypt"
+} 

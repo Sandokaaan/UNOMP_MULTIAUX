@@ -1,0 +1,5 @@
+{
+    "name": "BitcoinBAM",
+    "symbol": "BTCBAM",
+    "algorithm": "sha256"
+}

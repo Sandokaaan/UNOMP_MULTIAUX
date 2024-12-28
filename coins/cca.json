@@ -1,0 +1,5 @@
+{
+    "name": "CounosCoin",
+    "symbol": "CCA",
+    "algorithm": "scrypt"
+}

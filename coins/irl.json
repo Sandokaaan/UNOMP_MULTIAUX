@@ -1,0 +1,5 @@
+{
+    "name": "IrishCoin",
+    "symbol": "IRL",
+    "algorithm": "scrypt"
+} 

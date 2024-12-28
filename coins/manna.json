@@ -1,0 +1,6 @@
+{
+    "name": "MannaCoin",
+    "symbol": "MANNA",
+    "algorithm": "sha256",
+    "reward": "POS"
+} 

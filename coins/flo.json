@@ -1,0 +1,5 @@
+{
+    "name": "FloriCoin",
+    "symbol": "FLO",
+    "algorithm": "scrypt"
+}

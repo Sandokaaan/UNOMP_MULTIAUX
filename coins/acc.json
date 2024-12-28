@@ -1,0 +1,5 @@
+{
+    "name": "AdCoin",
+    "symbol": "ACC",
+    "algorithm": "scrypt"
+} 

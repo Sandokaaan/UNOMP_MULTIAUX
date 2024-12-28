@@ -1,0 +1,6 @@
+{
+    "name": "ferrite",
+    "symbol": "FEC",
+    "algorithm": "scrypt",
+    "reward": "POW"
+}

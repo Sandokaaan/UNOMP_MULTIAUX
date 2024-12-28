@@ -1,0 +1,5 @@
+{
+    "name": "BenjiCoin",
+    "symbol": "BENJI",
+    "algorithm": "scrypt"
+}

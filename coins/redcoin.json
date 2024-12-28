@@ -1,0 +1,7 @@
+{
+    "name": "RedCoin",
+    "symbol": "RED",
+    "algorithm": "scrypt",
+    "peerMagic": "fdc0a5db",
+    "peerMagicTestnet": "fdc0b6f1"
+} 

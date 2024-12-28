@@ -1,0 +1,5 @@
+{
+    "name": "BitcoinScrypt",
+    "symbol": "BTCS",
+    "algorithm": "scrypt"
+} 

@@ -1,0 +1,5 @@
+{
+    "name": "LiteBar",
+    "symbol": "LTB",
+    "algorithm": "scrypt"
+}

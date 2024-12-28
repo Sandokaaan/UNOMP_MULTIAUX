@@ -1,0 +1,7 @@
+{
+    "name": "ParallelCoin3",
+    "symbol": "DUO3",
+    "algorithm": "scrypt",
+    "peerMagic": "cd08acff",
+    "peerMagicTestnet": "08b29988"
+} 
