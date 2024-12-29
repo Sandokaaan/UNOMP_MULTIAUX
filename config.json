@@ -72,7 +72,7 @@
         /*"host": "127.0.0.1",*/
         /* Title you want for your site. */
         "siteTitle": "UNOMP Multiaux",
-        "port": 80,
+        "port": 8080,
         /* Used for displaying stratum connection data on the Getting Started page. */
         "stratumHost": "127.0.0.1",
         "stats": {
