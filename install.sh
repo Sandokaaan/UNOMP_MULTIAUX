@@ -22,3 +22,4 @@ nvm alias default 0.10.29
 # git clone https://github.com/Sandokaaan/UNOMP_MULTIAUX.git
 
 echo 'Set required password in files config.json and pool_config/litecoin.json'
+echo 'You also must log-out and then log-in again.'
